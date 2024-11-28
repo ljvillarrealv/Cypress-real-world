@@ -1,0 +1,21 @@
+{
+    "nombre": "Pepito",
+    "apellido": "Lopez",
+    "email": "cypress@ateneaconocimientos.net",
+    "sexo": "Other",
+    "telefono": "3333333333",
+    "fechaDeNacimiento": [
+      "December",
+      "1990",
+      "31"
+    ],
+    "materia":"English",
+    "hobbies": [
+      "Sports",
+      "Music"
+    ],
+    "imagen": "my-image.png",
+    "direccion": "Alguna dirección ficticia",
+    "estado": "NCR",
+    "ciudad": "Delhi"
+  }
